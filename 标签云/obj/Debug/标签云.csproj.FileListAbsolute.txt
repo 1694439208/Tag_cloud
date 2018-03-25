@@ -1,0 +1,8 @@
+E:\我的项目\c#\网页填表\标签云\标签云\obj\Debug\标签云.Form1.resources
+E:\我的项目\c#\网页填表\标签云\标签云\obj\Debug\标签云.Properties.Resources.resources
+E:\我的项目\c#\网页填表\标签云\标签云\obj\Debug\标签云.csproj.GenerateResource.Cache
+E:\我的项目\c#\网页填表\标签云\标签云\bin\Debug\标签云.exe
+E:\我的项目\c#\网页填表\标签云\标签云\bin\Debug\标签云.pdb
+E:\我的项目\c#\网页填表\标签云\标签云\obj\Debug\标签云.exe
+E:\我的项目\c#\网页填表\标签云\标签云\obj\Debug\标签云.pdb
+E:\我的项目\c#\网页填表\标签云\标签云\obj\Debug\标签云.csprojResolveAssemblyReference.cache
